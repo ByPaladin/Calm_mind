@@ -16,7 +16,7 @@ namespace Presentacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Registro_del_psicologo());
+            Application.Run(new Registro_del_paciente());
         }
     }
 }

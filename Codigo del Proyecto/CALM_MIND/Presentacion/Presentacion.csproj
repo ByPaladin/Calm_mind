@@ -74,11 +74,19 @@
     <Compile Include="Registro_del_psicologo.Designer.cs">
       <DependentUpon>Registro_del_psicologo.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Ventana_Principal.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Ventana_Principal.Designer.cs">
       <DependentUpon>Ventana_Principal.cs</DependentUpon>
+=======
+    <Compile Include="Rompecabezas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rompecabezas.Designer.cs">
+      <DependentUpon>Rompecabezas.cs</DependentUpon>
+>>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -88,14 +96,27 @@
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+<<<<<<< HEAD
+=======
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+>>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5
     <EmbeddedResource Include="Registro del paciente.resx">
       <DependentUpon>Registro del paciente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Registro_del_psicologo.resx">
       <DependentUpon>Registro_del_psicologo.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="Ventana_Principal.resx">
       <DependentUpon>Ventana_Principal.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Rompecabezas.resx">
+      <DependentUpon>Rompecabezas.cs</DependentUpon>
+>>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -120,9 +141,14 @@
       <Name>Modelos</Name>
     </ProjectReference>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup />
   <ItemGroup>
     <None Include="Resources\Logo2-removebg-preview.png" />
+=======
+  <ItemGroup>
+    <Folder Include="Resources\" />
+>>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

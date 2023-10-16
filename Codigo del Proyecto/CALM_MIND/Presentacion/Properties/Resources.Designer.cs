@@ -63,9 +63,35 @@ namespace Presentacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap Logo2_removebg_preview {
             get {
                 object obj = ResourceManager.GetObject("Logo2-removebg-preview", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap Circulo_Amarillo {
+            get {
+                object obj = ResourceManager.GetObject("Circulo Amarillo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Circulo_Azul {
+            get {
+                object obj = ResourceManager.GetObject("Circulo Azul", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Circulo_Morado {
+            get {
+                object obj = ResourceManager.GetObject("Circulo Morado", resourceCulture);
+>>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

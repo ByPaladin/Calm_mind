@@ -11,6 +11,7 @@ C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.csproj.CopyComplete
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.dll
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.pdb
+<<<<<<< HEAD
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\MySql.Data.dll
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Google.Protobuf.dll
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\ZstdSharp.dll
@@ -37,3 +38,18 @@ C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\System.IO.Pipelines.xml
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\K4os.Hash.xxHash.xml
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\System.Numerics.Vectors.xml
+=======
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Logica.dll.config
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Logica.dll
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Logica.pdb
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Datos.dll
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Modelos.dll
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Datos.pdb
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Datos.dll.config
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\bin\Debug\Modelos.pdb
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.dll
+C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Logica\obj\Debug\Logica.pdb
+>>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5

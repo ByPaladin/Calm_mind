@@ -111,10 +111,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Logica\Logica.csproj">
-      <Project>{ee633b8f-8b61-46fd-87df-ef27d8e3bbbe}</Project>
-      <Name>Logica</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Modelos\Modelos.csproj">
       <Project>{ae73d82e-959b-480e-a8e7-76869ae843df}</Project>
       <Name>Modelos</Name>

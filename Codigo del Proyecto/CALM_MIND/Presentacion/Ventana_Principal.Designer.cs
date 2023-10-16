@@ -76,11 +76,9 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Presentacion.Properties.Resources.Logo2_removebg_preview;
             this.pictureBox1.Location = new System.Drawing.Point(103, 178);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(208, 177);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 13;
             this.pictureBox1.TabStop = false;
             // 

@@ -16,11 +16,7 @@ namespace Presentacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-<<<<<<< HEAD
             Application.Run(new Ventana_Principal());
-=======
-            Application.Run(new Rompecabezas());
->>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5
         }
     }
 }

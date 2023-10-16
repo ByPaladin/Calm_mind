@@ -16,7 +16,7 @@ namespace Presentacion
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Registro_del_paciente());
+            Application.Run(new Ventana_Principal());
         }
     }
 }

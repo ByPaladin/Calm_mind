@@ -57,6 +57,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Registro del paciente.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -69,23 +74,28 @@
     <Compile Include="Registro_del_psicologo.Designer.cs">
       <DependentUpon>Registro_del_psicologo.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ventana_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventana_Principal.Designer.cs">
+      <DependentUpon>Ventana_Principal.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Registro del paciente.resx">
       <DependentUpon>Registro del paciente.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Registro_del_psicologo.resx">
       <DependentUpon>Registro_del_psicologo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventana_Principal.resx">
+      <DependentUpon>Ventana_Principal.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -109,6 +119,10 @@
       <Project>{ae73d82e-959b-480e-a8e7-76869ae843df}</Project>
       <Name>Modelos</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\Logo2-removebg-preview.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

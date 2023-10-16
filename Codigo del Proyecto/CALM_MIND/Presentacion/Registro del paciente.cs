@@ -122,5 +122,10 @@ namespace Presentacion
             ga1.DrawEllipse(pena1, xa1, ya1, diametera1, diametera1);
             //
         }
+
+        private void BtnCancelar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

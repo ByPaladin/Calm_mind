@@ -16,9 +16,6 @@ C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacio
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.pdb
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.Registro_del_psicologo.resources
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.Registro_del_paciente.resources
-<<<<<<< HEAD
-C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.Ventana_Principal.resources
-=======
 C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Presentacion.exe.config
 C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Presentacion.exe
 C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Presentacion.pdb
@@ -39,14 +36,10 @@ C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion
 C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\diego\Source\Repos\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.pdb
->>>>>>> 634df1da454ece2adb2f9b09b85f0572d1806ce5
 C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Presentacion.exe.config
 C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Presentacion.exe
 C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Presentacion.pdb
-C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Logica.dll
 C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Modelos.dll
-C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Logica.pdb
-C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Logica.dll.config
 C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Modelos.pdb
 C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
 C:\Users\jjsis\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.Form1.resources

@@ -1,0 +1,17 @@
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Release\Presentacion.exe.config
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Release\Presentacion.exe
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Release\Presentacion.pdb
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Release\Modelos.dll
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Release\Modelos.pdb
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.Form1.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.Properties.Resources.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.Registro_del_paciente.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.Registro_del_psicologo.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.Splash.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.Ventana_de_inicio.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.csproj.GenerateResource.cache
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.csproj.CopyComplete
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.exe
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Release\Presentacion.pdb

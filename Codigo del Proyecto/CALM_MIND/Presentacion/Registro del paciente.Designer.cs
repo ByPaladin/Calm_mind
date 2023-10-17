@@ -178,7 +178,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Registro_del_paciente";
-            this.Text = "Registro_del_paciente";
+            this.Text = "Registro del paciente";
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Registro_del_paciente_Paint);
             this.ResumeLayout(false);
             this.PerformLayout();

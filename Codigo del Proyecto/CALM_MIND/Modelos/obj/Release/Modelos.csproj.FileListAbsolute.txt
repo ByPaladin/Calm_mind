@@ -1,0 +1,6 @@
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Modelos\bin\Release\Modelos.dll
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Modelos\bin\Release\Modelos.pdb
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Modelos\obj\Release\Modelos.csproj.AssemblyReference.cache
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Modelos\obj\Release\Modelos.dll
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Modelos\obj\Release\Modelos.pdb

@@ -79,6 +79,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Juego_De_Memoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Juego_De_Memoria.Designer.cs">
+      <DependentUpon>Juego_De_Memoria.cs</DependentUpon>
+    </Compile>
     <Compile Include="Laberinto_D.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -96,6 +102,12 @@
     </Compile>
     <Compile Include="Laberinto_M.Designer.cs">
       <DependentUpon>Laberinto_M.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIPrincipal.Designer.cs">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -135,8 +147,26 @@
     <Compile Include="Ventana_de_inicio.Designer.cs">
       <DependentUpon>Ventana_de_inicio.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ventana_Ganaste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventana_Ganaste.Designer.cs">
+      <DependentUpon>Ventana_Ganaste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ventana_IO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventana_IO.Designer.cs">
+      <DependentUpon>Ventana_IO.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Juego_De_Memoria.resx">
+      <DependentUpon>Juego_De_Memoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIPrincipal.resx">
+      <DependentUpon>MDIPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -154,6 +184,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Ventana_de_inicio.resx">
       <DependentUpon>Ventana_de_inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventana_Ganaste.resx">
+      <DependentUpon>Ventana_Ganaste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventana_IO.resx">
+      <DependentUpon>Ventana_IO.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
@@ -195,6 +231,54 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Girada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Diseño sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo Login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo inicioS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ganaste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ganaste1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V Ganaste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\V Intentalo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -15,3 +15,7 @@ C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacio
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.pdb
 C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.Juego_De_Memoria.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.MDIPrincipal.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.Ventana_Ganaste.resources
+C:\Users\Castellanos\Desktop\Calm_mind\Codigo del Proyecto\CALM_MIND\Presentacion\obj\Debug\Presentacion.Ventana_IO.resources

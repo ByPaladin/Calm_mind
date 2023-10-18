@@ -179,6 +179,9 @@
     <EmbeddedResource Include="Registro_del_psicologo.resx">
       <DependentUpon>Registro_del_psicologo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Rompe_Cabeza.resx">
+      <DependentUpon>Rompe_Cabeza.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Splash.resx">
       <DependentUpon>Splash.cs</DependentUpon>
     </EmbeddedResource>
